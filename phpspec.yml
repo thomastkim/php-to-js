@@ -1,0 +1,5 @@
+suites:
+    kim_suite:
+        namespace: Kim
+        src_path: src
+        spec_prefix: spec

@@ -1,0 +1,32 @@
+{
+    "name": "kim/javascript",
+    "description": "Laravel package to pass PHP variables to your JavaScript files.",
+    "keywords": [
+        "laravel",
+        "php",
+        "javascript",
+        "php to javascript"
+    ],
+    "homepage": "https://github.com/thomaskim/php-to-javascript",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Kim",
+            "email": "thomas@thomastkim.com",
+            "homepage": "http://thomastkim.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.0",
+        "php" : ">=5.4.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kim\\": "src/Kim"
+        }
+    },
+    "minimum-stability": "stable"
+}
