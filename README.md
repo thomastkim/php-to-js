@@ -2,7 +2,7 @@
 
 This package allows you to simply convert and transfer your PHP variables to use in JavaScript.
 
-This is a very simple package I made for practice / fun.
+This is a package I made for practice / fun. Please use [Jeffrey Way's package](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) instead.
 
 ## Installation
 
